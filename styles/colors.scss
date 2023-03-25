@@ -1,0 +1,29 @@
+$background-primary: #202229;
+$background-secondary: #292c33;
+
+$background-gradient: linear-gradient(
+  180deg,
+  rgba(41, 44, 51, 0) 0%,
+  #292c33 102%
+);
+//$background-gradient-accent: linear-gradient(
+//    337.41deg,
+//    #ff9070 35.31%,
+//    #ff7798 64.69%
+//  ),
+//  linear-gradient(90deg, #051eff 0%, #ff8c90 100%);
+$background-gradient-accent: linear-gradient(
+    337.41deg,
+    rgba(88, 0, 255, 0.75) 35.31%,
+    rgba(233, 0, 255, 0.75) 64.69%
+  ),
+  linear-gradient(90deg, #051eff 0%, #ff8c90 100%);
+
+$content-primary: #ffffff;
+$content-secondary: #c9cacc;
+
+//$accent-first: #ff9070;
+$accent-first: #ffc600;
+
+//$accent-second: #ff7798;
+$accent-second: #ffc600;
